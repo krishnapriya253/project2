@@ -1,0 +1,35 @@
+.inbox{
+    background-color: chocolate;
+    padding: 10px 30px;
+    text-align: center;
+}
+.sec1{
+    background-color:coral;
+    padding: 100px 0;
+    font-style:oblique;
+}
+.sec2{ 
+    background-color:cornsilk;
+    padding: 100px 0;
+    font-style: italic;
+} 
+.sec3{
+    background-color:rgb(236, 185, 211);
+    padding: 100px 0;
+    font-size: small;
+}
+.sec4{
+    background-color: bisque;
+    padding: 100px 0;
+    font-size: medium;
+}
+.sec5{
+    background-color:burlywood;
+    padding: 100px;
+    text-align: center;
+}
+.sec6{
+    background-color:brown;
+    padding: 100px;
+    text-align: center;
+}
